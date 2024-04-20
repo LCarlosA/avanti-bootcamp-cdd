@@ -2,9 +2,9 @@
 0,carat,Peso do diamante(g) -- Quilates,quantitativo,continua
 1,cut,Tipo/Qualidade do corte realizado no diamante (Ordenado do pior pro melhor),qualitativo,ordinal
 2,color,Cor do Diamante (Ordenado do melhor pro pior),qualitativo,ordinal
-3,clarity,Brilho do diamante (Ordenado do pior para o melhor),qualitativo,ordinal
-4,depth,Percentual de profundidade do diamante,quantitativo,continua
-5,table,Largura do topo do diamante em relação ao ponto mais largo,quantitativo,qualitativo
+3,clarity,Pureza do diamante (Ordenado do pior para o melhor),qualitativo,ordinal
+4,depth,Largura do topo do diamante em relação ao ponto mais largo,quantitativo,continua
+5,table,Percentual de profundidade do diamante,quantitativo,qualitativo
 6,price,Preço do diamante em Dolar ($),quantitativo,discreta
 7,x,Uma dimensão do diamante,quantitativo,continua
 8,y,Uma dimensão do diamante,quantitativo,continua
