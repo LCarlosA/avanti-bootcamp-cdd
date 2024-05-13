@@ -9,3 +9,4 @@
 7,x,Uma dimensão do diamante,quantitativo,continua
 8,y,Uma dimensão do diamante,quantitativo,continua
 9,z,Uma dimensão do diamante,quantitativo,continua
+10,Valor,"Quanto vale o diamante por grama, maneira de verificar o quão raro ele é",quantitativo,discreta
