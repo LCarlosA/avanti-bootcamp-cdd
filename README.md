@@ -18,10 +18,11 @@ Esse foi o meu primeiro projeto oficial de estudo de análise de dados, realizad
  <li>Organização visual e seus elementos</li>
 </ul>
 
-### Solução:
+### Soluções:
 <ul>
  <li>Pesquisa sobre desenvolvimento de visualização, como a leitura do livro <b>Storytelling com dados</b></li>
 </ul>
+
 ### Aprendizado:
 <ul>
     <li> Storytelling com Dados</li>
